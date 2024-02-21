@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://emphur.github.io/sitemap.txt
